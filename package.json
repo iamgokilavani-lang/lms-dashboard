@@ -1,0 +1,13 @@
+{
+  "name": "lms-system",
+  "version": "1.0.0",
+  "description": "Comprehensive Learning Management System (LMS)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["lms", "education", "courses", "elearning", "student-dashboard"],
+  "author": "LMS Member 4",
+  "license": "MIT"
+}
+
